@@ -1,9 +1,2 @@
-runs/
-data/
-# stylegan2-ada-pytorch
-stylegan2-ada\~
-
-*.png
 *.pt
-*.avi
 *.zip
